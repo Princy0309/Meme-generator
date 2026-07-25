@@ -3,7 +3,7 @@
 A fun and interactive web application built with React and Vite that allows users to generate custom memes by inputting top and bottom text over random meme templates.
 
 ## 🚀 Live Demo
-Play/use the app live here: [Insert your Vercel deployment link here]
+Play/use the app live here: https://meme-generator-gb7fvhgck-princy-mishra.vercel.app/
 
 ## 📌 Features
 * Fetch and cycle through random meme templates using an API/image source.
