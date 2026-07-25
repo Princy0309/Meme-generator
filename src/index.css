@@ -89,11 +89,11 @@ body{
 }
 
 .new-meme-img-text{
-  margin-top: 20px;
   line-height: 200%;
-  color: rgba(255, 255, 255, 1);
+  color: rgb(19, 13, 13);
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   letter-spacing: 0%;
+  border-radius: 5px;
 }
 
 .gallery-icon{
