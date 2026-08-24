@@ -1,4 +1,4 @@
-# Meme Generator 😂
+# Meme Generator 
 
 A fun and interactive web application built with React and Vite that allows users to generate custom memes by inputting top and bottom text over random meme templates.
 
